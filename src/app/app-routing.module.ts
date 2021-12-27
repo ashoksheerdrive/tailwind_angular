@@ -14,10 +14,10 @@ import { TooltipComponent } from './shared/tooltip/tooltip.component';
 
 const routes: Routes = [
   {
-    path:'buttons',component:ButtonsComponent
+    path:'/buttons',component:ButtonsComponent
   },
   {
-    path:'badges',component:BadgesComponent
+    path:'/badges',component:BadgesComponent
   },
   {
     path:'cards',component:CardsComponent
